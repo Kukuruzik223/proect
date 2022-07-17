@@ -1,0 +1,192 @@
+* {box-sizing: border-box;
+margin: 0px;
+padding: 0px;
+font-family: 'Roboto', sans-serif;
+}
+.mane {
+    background-image: url("./img/Rectangle.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.conteiner {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.nav {
+    display: flex;
+    color: aliceblue;
+    font-size: 23px;
+    align-items: center;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+.logo {
+    display: flex;
+    align-items: center;
+
+}
+.button {
+    background-color: unset;
+    border: 2px solid #CD6326;
+    border-radius: 5px;
+    color: aliceblue;
+    font-size: 23px;
+    padding: 10px 5px;
+}
+.button:hover {
+    border: 2px solid #e1a07a;
+}
+.wildlife {
+    text-transform: uppercase;
+    color: aliceblue;
+    font-size: 23px;
+margin-left: 15px;
+}
+ .glav {
+     margin-left: 60px;
+ }
+.put {
+    color: #CD6326;
+    font-size: 48px;
+    margin-top: 120px;
+}
+.paint {
+    max-width: 275px;
+    color: aliceblue;
+    font-size: 18px;
+    line-height: 27px;
+    margin-top: 51px;
+}
+.button_2 {
+    background: #CD6326;
+border-radius: 5px;
+padding: 16px 42px;
+color: aliceblue;
+margin-top: 65px;
+border: none;
+margin-bottom: 240px;
+transition:all 0.25s linear;
+cursor: pointer;
+}
+.button_2:hover {
+    background: #d79169;
+    
+}
+.latest {
+    color: #333333;
+    font-size: 48px;
+    text-align: center;
+    padding-top: 120px;
+}
+.qw {
+    background-color: #CCCCCC;
+    padding-bottom: 239px;
+}
+.breaking {
+    color: #666666;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+}
+.olen {
+    background-image: url("./img/olen.jpg");
+
+}
+.belka {
+    background-image: url("./img/Rectangle\ \(1\).jpg");
+}
+.ptica {
+    background-image: url("./img/Rectangle\ \(2\).jpg");
+}
+.name_2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    
+}
+.siri {
+    width: 300px;
+    height: 360px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    
+}
+.deer {
+    font-size: 22px;
+    color: aliceblue;
+    margin-top: 247px;
+    margin-bottom: 10px;
+}
+.nar {
+    font-size: 17px;
+    color: aliceblue;
+}
+.get {
+    font-size: 27px;
+    color: #333333;
+    text-align: center;
+    margin-top: 239px;
+}
+.input {
+    background-color: #CCCCCC;
+    width: 540px;
+    height: 60px;
+    border-radius: solid 1px #666666;
+    outline: none;
+    font-size: 23px;
+    padding-left: 15px;
+}
+.wq {
+    text-align: center;
+    margin-top: 60px;
+    
+}
+.ere {
+    background-color: #CD6326;
+    color: aliceblue;
+    border: none;
+    width: 120px;
+height: 60px;
+font-size: 23px;
+}
+.fona {
+    background-image: url("./img/1Rectangle.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 120px;
+    padding-top: 151px;
+    padding-bottom: 150px;
+    align-items: center;
+    padding-right: 120px;
+}
+
+.opa {
+    display: flex;
+    align-items: center;
+}
+.betweene {
+    justify-content: space-between;
+}
+.betweene {
+    font-size: 23px;
+    color: aliceblue;
+}
+.about {
+    margin-left: 86px;
+    margin-right: 85px;
+}
+.wert {
+    margin-left: 27px;
+    margin-right: 26px;
+}
+.werte {
+    margin-right: 27px;
+}
